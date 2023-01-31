@@ -1,0 +1,1 @@
+"C:\Users\demol\AppData\Local\Programs\Python\Python310\python.exe" "C:\Users\demol\OneDrive\Escritorio\Bookstore_Images\main.py"
